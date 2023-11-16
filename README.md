@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ugurabdil
 - 👀 I’m interested in software
-- 🌱 I’m currently learning javascript,Css,Html
+- 🌱 I’m currently learning Front End(javascript,Css,Html)
 - 📫 How to reach me ugrabdl@gmail.com
 
 <!---

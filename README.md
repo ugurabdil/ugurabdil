@@ -26,6 +26,6 @@
 ## 📫 How to Reach Me
 - **Email:** ugurabdil98@gmail.com
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ugurabdil)
-- **Twitter:** [@ugurabdil](https://twitter.com/ugurabdil)
+
 
 
